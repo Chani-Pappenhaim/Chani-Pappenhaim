@@ -6,15 +6,6 @@ Full-Stack Developer who integrates advanced AI tools into the development proce
 - 💡 Strong focus on algorithmic thinking, clean code, and AI-assisted engineering workflows
 - 📫 Reach me at **Chani0556741517@gmail.com**
 
-### Tech I work with
-
-**Languages:** Python · Java · C# · JavaScript · C++ · C
-**Backend:** Node.js · .NET Core · Web API · Entity Framework · Spring Boot
-**Frontend:** React · Vite · HTML · CSS
-**Databases:** DynamoDB · SQL Server · MongoDB
-**AI & Agents:** LLM Integrations · AI Agents · Prompt Engineering · MCP Servers · Claude Code
-**Tools & Cloud:** Git · GitHub · Bitbucket · AWS · Docker · Postman · Swagger · Jira
-
 ### Featured projects
 
 | Project | What it does |
