@@ -1,6 +1,6 @@
 ## Hi, I'm Chani Pappenhaim 👋
 
-Full-Stack Developer who integrates advanced AI tools into the development process. I enjoy understanding a system in depth, breaking down complex problems into clean, efficient solutions, and getting up to speed quickly in new codebases and environments.
+Developer who integrates advanced AI tools into the development process. I enjoy understanding a system in depth, breaking down complex problems into clean, efficient solutions, and getting up to speed quickly in new codebases and environments.
 
 - 🎓 Software Engineering (MAHAT), Kama-Tech — Extra Code
 - 💡 Strong focus on algorithmic thinking, clean code, and AI-assisted engineering workflows
